@@ -23,26 +23,43 @@ def allocate_to_folder(file):
                 return folder
     return "others"
 
+# attempt to rename file , if opened (aka used by another program), there will be an exception
+def is_file_in_use(file_path):
+    try:
+        os.rename(file_path, file_path)
+        return False
+    except OSError:
+        return True
+
 try:
     os.chdir(path)
     files = os.listdir()
     # to save time instead of iterating all the files
-    for i in range(10):
-        directory = allocate_to_folder(files[i])
+    for i in range(50):
+        file_name = files[i]
+        # file source path
+        full_path = os.path.join(path, file_name)
+
+        if os.path.isdir(full_path):
+            continue
+        
+        if is_file_in_use(full_path):
+            print(f"Skipping: {file_name} (File is currently in use)")
+            continue
+
+        directory = allocate_to_folder(file_name)
 
         if directory:
             target_dir = os.path.join(sort_root, directory)
-            destination_path = os.path.join(target_dir, files[i])
+            destination_path = os.path.join(target_dir, file_name)
             # to ensure folder exists before moving file to it
             os.makedirs(target_dir, exist_ok=True)
             # only move to destination if file does not exist
             if not os.path.exists(destination_path):
-                shutil.move(files[i], destination_path)
-                print(f"Moved: {files[i]}")
+                shutil.move(file_name, destination_path)
+                print(f"Moved: {file_name}")
             else:
-                print(f"Skipped: {files[i]} (Already exists in {directory})")
-
-        # what if file is opened in another program -> need to handle errors
+                print(f"Skipped: {file_name} (Already exists in {directory})")
         
     
 except FileNotFoundError:
