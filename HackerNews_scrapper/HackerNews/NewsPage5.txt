@@ -1,0 +1,273 @@
+------------------------------
+Page 5------------------------------
+
+Article Number: 121
+Article Title: Show HN: Crust – A CLI framework for TypeScript and Bun
+Source Website: github.com/chenxin-yan
+Source URL: https://github.com/chenxin-yan/crust
+Article Author: jellyotsiro
+Article Score: 90 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 122
+Article Title: Denmark was reportedly preparing for full-scale war with the US over Greenland
+Source Website: bsky.app
+Source URL: https://bsky.app/profile/chriso-wiki.bsky.social/post/3mhfsau25uk2f
+Article Author: mariuz
+Article Score: 323 points
+Posted: 3 hours ago
+------------------------------
+
+Article Number: 123
+Article Title: Every layer of review makes you 10x slower
+Source Website: apenwarr.ca
+Source URL: https://apenwarr.ca/log/20260316
+Article Author: greyface-
+Article Score: 565 points
+Posted: 2 days ago
+------------------------------
+
+Article Number: 124
+Article Title: Leviathan (1651)
+Source Website: gutenberg.org
+Source URL: https://www.gutenberg.org/files/3207/3207-h/3207-h.htm
+Article Author: mrwh
+Article Score: 112 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 125
+Article Title: Verígrafo – Temporal Knowledge Graph over Spain's 330K+ official government docs
+Source Website: verigrafo.com
+Source URL: https://verigrafo.com/
+Article Author: munirjojoverge
+Article Score: 11 points
+Posted: 19 hours ago
+------------------------------
+
+Article Number: 126
+Article Title: Aliens.gov ~ domain registered 17MAR2026
+Source Website: domaintools.com
+Source URL: https://whois.domaintools.com/aliens.gov
+Article Author: someprick
+Article Score: 155 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 127
+Article Title: Ryugu asteroid samples contain all DNA and RNA building blocks
+Source Website: phys.org
+Source URL: https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html
+Article Author: bookofjoe
+Article Score: 304 points
+Posted: 2 days ago
+------------------------------
+
+Article Number: 128
+Article Title: Bill C-22, the Lawful Access Act: Dangerous backdoor surveillance risks remain
+Source Website: michaelgeist.ca
+Source URL: https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/
+Article Author: opengrass
+Article Score: 1001 points
+Posted: 3 days ago
+------------------------------
+
+Article Number: 129
+Article Title: Mave – Improve focus. Reduce stress. Feel calm
+Source Website: mavehealth.com
+Source URL: https://www.mavehealth.com
+Article Author: gkcgautam
+Article Score: 9 points
+Posted: 12 hours ago
+------------------------------
+
+Article Number: 130
+Article Title: AI coding is gambling
+Source Website: visaint.space
+Source URL: https://notes.visaint.space/ai-coding-is-gambling/
+Article Author: speckx
+Article Score: 337 points
+Posted: 22 hours ago
+------------------------------
+
+Article Number: 131
+Article Title: Animation 10k Starlink Satellites
+Source Website: spaceweather.com
+Source URL: https://spaceweather.com/archive.php?view=1&day=18&month=03&year=2026
+Article Author: MeteorMarc
+Article Score: 44 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 132
+Article Title: I haven't used a mouse for 14 years
+Source Website: axelk.ee
+Source URL: https://axelk.ee/i-havent-used-a-mouse-for-14-years-and-how-to-enable-three-fingers-drag-on-macos/
+Article Author: speckx
+Article Score: 58 points
+Posted: 21 hours ago
+------------------------------
+
+Article Number: 133
+Article Title: Toward automated verification of unreviewed AI-generated code
+Source Website: peterlavigne.com
+Source URL: https://peterlavigne.com/writing/verifying-ai-generated-code
+Article Author: peterlavigne
+Article Score: 92 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 134
+Article Title: Lazycut: A simple terminal video trimmer using FFmpeg
+Source Website: github.com/emin-ozata
+Source URL: https://github.com/emin-ozata/lazycut
+Article Author: masterpos
+Article Score: 227 points
+Posted: 3 days ago
+------------------------------
+
+Article Number: 135
+Article Title: The TOMY Spinjas
+Source Website: medium.com/solidi
+Source URL: https://medium.com/@solidi/the-tomy-spinjas-978a183a5eb3
+Article Author: biscuits1
+Article Score: 6 points
+Posted: 16 hours ago
+------------------------------
+
+Article Number: 136
+Article Title: Java 26 is here
+Source Website: hanno.codes
+Source URL: https://hanno.codes/2026/03/17/java-26-is-here/
+Article Author: mfiguiere
+Article Score: 266 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 137
+Article Title: A Fuzzer for the Toy Optimizer
+Source Website: bernsteinbear.com
+Source URL: https://bernsteinbear.com/blog/toy-fuzzer/
+Article Author: surprisetalk
+Article Score: 24 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 138
+Article Title: Identity protection firm Aura suffers data breach exposing 900 000 records
+Source Website: cyberinsider.com
+Source URL: https://cyberinsider.com/identity-protection-firm-aura-suffers-data-breach-exposing-900000-records/
+Article Author: nalekberov
+Article Score: 7 points
+Posted: 8 hours ago
+------------------------------
+
+Article Number: 139
+Article Title: Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust
+Source Website: github.com/peters
+Source URL: https://github.com/peters/horizon
+Article Author: petersunde
+Article Score: 78 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 140
+Article Title: Meta’s renewed commitment to jemalloc
+Source Website: fb.com
+Source URL: https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/
+Article Author: hahahacorn
+Article Score: 513 points
+Posted: 2 days ago
+------------------------------
+
+Article Number: 141
+Article Title: Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild
+Source Website: wired.com
+Source URL: https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/
+Article Author: WalterSobchak
+Article Score: 124 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 142
+Article Title: The “small web” is bigger than you might think
+Source Website: kevinboone.me
+Source URL: https://kevinboone.me/small_web_is_big.html
+Article Author: speckx
+Article Score: 547 points
+Posted: 2 days ago
+------------------------------
+
+Article Number: 143
+Article Title: Trashing American Allies Turns Out to Be Bad for National Security
+Source Website: theatlantic.com
+Source URL: https://www.theatlantic.com/ideas/2026/03/trump-independence-allies-support/686432/
+Article Author: breve
+Article Score: 71 points
+Posted: 17 hours ago
+------------------------------
+
+Article Number: 144
+Article Title: I Simulated 38,612 Countryle Games to Find the Best Strategy
+Source Website: stoffregen.io
+Source URL: https://stoffregen.io/posts/countryle/
+Article Author: st0ffregen
+Article Score: 37 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 145
+Article Title: WFH is becoming a benefit again
+Source Website: N/A
+Source URL: item?id=47438403
+Article Author: sharemywin
+Article Score: 45 points
+Posted: 2 hours ago
+------------------------------
+
+Article Number: 146
+Article Title: Corruption erodes social trust more in democracies than in autocracies
+Source Website: frontiersin.org
+Source URL: https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full
+Article Author: PaulHoule
+Article Score: 737 points
+Posted: 3 days ago
+------------------------------
+
+Article Number: 147
+Article Title: Review of Microsoft's ClearType Font Collection (2005)
+Source Website: typographica.org
+Source URL: https://typographica.org/on-typography/microsofts-cleartype-font-collection-a-fair-and-balanced-review/
+Article Author: precompute
+Article Score: 38 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 148
+Article Title: Ask HN: How do you deal with people who trust LLMs?
+Source Website: N/A
+Source URL: item?id=47433702
+Article Author: basilikum
+Article Score: 137 points
+Posted: 13 hours ago
+------------------------------
+
+Article Number: 149
+Article Title: The American Healthcare Conundrum
+Source Website: github.com/rexrodeo
+Source URL: https://github.com/rexrodeo/american-healthcare-conundrum
+Article Author: rexroad
+Article Score: 519 points
+Posted: 2 days ago
+------------------------------
+
+Article Number: 150
+Article Title: The bureaucracy blocking the chance at a cure
+Source Website: writingruxandrabio.com
+Source URL: https://www.writingruxandrabio.com/p/the-bureaucracy-blocking-the-chance
+Article Author: item
+Article Score: 153 points
+Posted: 3 days ago
+------------------------------
+

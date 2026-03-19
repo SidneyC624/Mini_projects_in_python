@@ -1,0 +1,273 @@
+------------------------------
+Page 1------------------------------
+
+Article Number: 1
+Article Title: Astral to Join OpenAI
+Source Website: astral.sh
+Source URL: https://astral.sh/blog/openai
+Article Author: ibraheemdev
+Article Score: 446 points
+Posted: 2 hours ago
+------------------------------
+
+Article Number: 2
+Article Title: OpenBSD: PF queues break the 4 Gbps barrier
+Source Website: undeadly.org
+Source URL: https://undeadly.org/cgi?action=article;sid=20260319125859
+Article Author: defrost
+Article Score: 56 points
+Posted: 1 hour ago
+------------------------------
+
+Article Number: 3
+Article Title: Juggalo Makeup Blocks Facial Recognition Technology (2019)
+Source Website: consequence.net
+Source URL: https://consequence.net/2019/07/juggalo-makeup-facial-recognition/
+Article Author: speckx
+Article Score: 95 points
+Posted: 2 hours ago
+------------------------------
+
+Article Number: 4
+Article Title: Consensus Board Game
+Source Website: matklad.github.io
+Source URL: https://matklad.github.io/2026/03/19/consensus-board-game.html
+Article Author: surprisetalk
+Article Score: 23 points
+Posted: 1 hour ago
+------------------------------
+
+Article Number: 5
+Article Title: Afroman found not liable in defamation case
+Source Website: nypost.com
+Source URL: https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/
+Article Author: antonymoose
+Article Score: 661 points
+Posted: 5 hours ago
+------------------------------
+
+Article Number: 6
+Article Title: The Shape of Inequalities
+Source Website: andreinc.net
+Source URL: https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/
+Article Author: nomemory
+Article Score: 6 points
+Posted: 48 minutes ago
+------------------------------
+
+Article Number: 7
+Article Title: Conway's Game of Life, in real life
+Source Website: lcamtuf.substack.com
+Source URL: https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life
+Article Author: surprisetalk
+Article Score: 253 points
+Posted: 11 hours ago
+------------------------------
+
+Article Number: 8
+Article Title: Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos
+Source Website: nytimes.com
+Source URL: https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html
+Article Author: pseudolus
+Article Score: 229 points
+Posted: 3 hours ago
+------------------------------
+
+Article Number: 9
+Article Title: Pretraining Language Models via Neural Cellular Automata
+Source Website: hanseungwook.github.io
+Source URL: https://hanseungwook.github.io/blog/nca-pre-pre-training/
+Article Author: shmublu
+Article Score: 47 points
+Posted: 5 hours ago
+------------------------------
+
+Article Number: 10
+Article Title: Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe
+Source Website: gitlab.com/isolatedoctopi
+Source URL: https://gitlab.com/IsolatedOctopi/nvidia_greenboost
+Article Author: mmastrac
+Article Score: 422 points
+Posted: 18 hours ago
+------------------------------
+
+Article Number: 11
+Article Title: Eniac, the First General-Purpose Digital Computer, Turns 80
+Source Website: ieee.org
+Source URL: https://spectrum.ieee.org/eniac-80-ieee-milestone
+Article Author: baruchel
+Article Score: 69 points
+Posted: 9 hours ago
+------------------------------
+
+Article Number: 12
+Article Title: OpenAI to Acquire Astral
+Source Website: openai.com
+Source URL: https://openai.com/index/openai-to-acquire-astral/
+Article Author: meetpateltech
+Article Score: 150 points
+Posted: 2 hours ago
+------------------------------
+
+Article Number: 13
+Article Title: OpenRocket
+Source Website: openrocket.info
+Source URL: https://openrocket.info/
+Article Author: zeristor
+Article Score: 665 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 14
+Article Title: Warranty Void If Regenerated
+Source Website: nearzero.software
+Source URL: https://nearzero.software/p/warranty-void-if-regenerated
+Article Author: Stwerner
+Article Score: 449 points
+Posted: 18 hours ago
+------------------------------
+
+Article Number: 15
+Article Title: How many branches can your CPU predict?
+Source Website: lemire.me
+Source URL: https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/
+Article Author: ibobev
+Article Score: 52 points
+Posted: 2 hours ago
+------------------------------
+
+Article Number: 16
+Article Title: 'Your Frustration Is the Product'
+Source Website: daringfireball.net
+Source URL: https://daringfireball.net/2026/03/your_frustration_is_the_product
+Article Author: llm_nerd
+Article Score: 183 points
+Posted: 3 hours ago
+------------------------------
+
+Article Number: 17
+Article Title: Stdwin: Standard window interface by Guido Van Rossum [pdf]
+Source Website: cwi.nl
+Source URL: https://ir.cwi.nl/pub/5998/5998D.pdf
+Article Author: ivanbelenky
+Article Score: 62 points
+Posted: 8 hours ago
+------------------------------
+
+Article Number: 18
+Article Title: A Preview of Coalton 0.2
+Source Website: coalton-lang.github.io
+Source URL: https://coalton-lang.github.io/20260312-coalton0p2/
+Article Author: varjag
+Article Score: 8 points
+Posted: 1 hour ago
+------------------------------
+
+Article Number: 19
+Article Title: Austin’s surge of new housing construction drove down rents
+Source Website: pew.org
+Source URL: https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents
+Article Author: matthest
+Article Score: 663 points
+Posted: 15 hours ago
+------------------------------
+
+Article Number: 20
+Article Title: LotusNotes
+Source Website: computer.rip
+Source URL: https://computer.rip/2026-03-14-lotusnotes.html
+Article Author: TMWNN
+Article Score: 144 points
+Posted: 13 hours ago
+------------------------------
+
+Article Number: 21
+Article Title: 2% of ICML papers desk rejected because the authors used LLM in their reviews
+Source Website: icml.cc
+Source URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/
+Article Author: sergdigon
+Article Score: 145 points
+Posted: 5 hours ago
+------------------------------
+
+Article Number: 22
+Article Title: Gluon: Explicit Performance
+Source Website: lei.chat
+Source URL: https://www.lei.chat/posts/gluon-explicit-performance/
+Article Author: matt_d
+Article Score: 6 points
+Posted: 2 hours ago
+------------------------------
+
+Article Number: 23
+Article Title: A sufficiently detailed spec is code
+Source Website: haskellforall.com
+Source URL: https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code
+Article Author: signa11
+Article Score: 502 points
+Posted: 13 hours ago
+------------------------------
+
+Article Number: 24
+Article Title: Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training
+Source Website: github.com/alainnothere
+Source URL: https://github.com/alainnothere/llm-circuit-finder
+Article Author: xlayn
+Article Score: 191 points
+Posted: 15 hours ago
+------------------------------
+
+Article Number: 25
+Article Title: Wander – A tiny, decentralised tool to explore the small web
+Source Website: susam.net
+Source URL: https://susam.net/wander/
+Article Author: susam
+Article Score: 318 points
+Posted: 21 hours ago
+------------------------------
+
+Article Number: 26
+Article Title: The next fight over the use of facial recognition could be in the supermarkets
+Source Website: politico.com
+Source URL: https://www.politico.com/newsletters/digital-future-daily/2026/03/16/the-facial-recognition-grocery-fight-00830499
+Article Author: speckx
+Article Score: 28 points
+Posted: 2 hours ago
+------------------------------
+
+Article Number: 27
+Article Title: Nvidia NemoClaw
+Source Website: github.com/nvidia
+Source URL: https://github.com/NVIDIA/NemoClaw
+Article Author: hmokiguess
+Article Score: 350 points
+Posted: 23 hours ago
+------------------------------
+
+Article Number: 28
+Article Title: Autoresearch for SAT Solvers
+Source Website: github.com/iliazintchenko
+Source URL: https://github.com/iliazintchenko/agent-sat
+Article Author: chaisan
+Article Score: 150 points
+Posted: 14 hours ago
+------------------------------
+
+Article Number: 29
+Article Title: The math that explains why bell curves are everywhere
+Source Website: quantamagazine.org
+Source URL: https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/
+Article Author: ibobev
+Article Score: 177 points
+Posted: 18 hours ago
+------------------------------
+
+Article Number: 30
+Article Title: Twelve-Tone Composition
+Source Website: johndcook.com
+Source URL: https://www.johndcook.com/blog/2026/03/15/twelve-tone-composition/
+Article Author: ibobev
+Article Score: 22 points
+Posted: 6 hours ago
+------------------------------
+

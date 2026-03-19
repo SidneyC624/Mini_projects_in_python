@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 from requests.exceptions import HTTPError, Timeout, RequestException
 import time
+import os
 
 def scrape(num_pages):
 
@@ -16,7 +17,7 @@ def scrape(num_pages):
             print("Success! Data retrieved.")
             soup = BeautifulSoup(response.text, "lxml")
             # fill in anything missing with default values
-            articles_list = []
+            article_list = []
             rows = soup.find_all("tr", class_="athing submission")
             
             for row in rows:
@@ -25,7 +26,8 @@ def scrape(num_pages):
 
                 title = title_line.find("a").text if title_line else "N/A"
                 url = title_line.find("a")["href"] if title_line else "N/A"
-                website = title_line.find("span", class_="sitestr").text if title_line else "N/A"
+                website_tag = title_line.find("span", class_="sitestr") if title_line else None
+                website = website_tag.text if website_tag else "N/A"
 
                 # gets next <tr> after current one
                 subtext_row = row.find_next_sibling("tr")
@@ -54,7 +56,8 @@ def scrape(num_pages):
                     "Article Score": score,
                     "Posted": time_posted
                 }
-                articles_list.append(article)
+                article_list.append(article)
+            write_page_to_file(page, article_list)
 
         except Timeout:
             print("Error: The request timed out. Check your internet of the server status.")
@@ -70,9 +73,30 @@ def scrape(num_pages):
         # to prevent hitting the server too fast
         time.sleep(1)
 
-    print(f"Gathered {len(articles_list)} articles")
-    print(articles_list)
+    print(f"Finished scraping. Wrote to {num_pages} files.")    
     return
+
+def write_page_to_file(page, article_list):
+    target_dir = "HackerNews"
+    os.makedirs(target_dir, exist_ok=True)
+
+    file_name = f"NewsPage{page}.txt"
+    file_path = os.path.join(target_dir, file_name)
+
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write("-" *  30 + "\n")
+        f.write(f"Page {page}")
+        f.write("-" *  30 + "\n\n")
+        for article in article_list:
+            f.write(f"Article Number: {article["Article Number"]}\n")
+            f.write(f"Article Title: {article["Article Title"]}\n")
+            f.write(f"Source Website: {article["Source Website"]}\n")
+            f.write(f"Source URL: {article["Source URL"]}\n")
+            f.write(f"Article Author: {article["Article Author"]}\n")
+            f.write(f"Article Score: {article["Article Score"]}\n")
+            f.write(f"Posted: {article["Posted"]}\n")
+            f.write("-" * 30 + "\n\n")
+        print(f"Successfully saved {file_name} to {target_dir}/")
 
 if __name__ == "__main__":
     MAX_PAGES = 20

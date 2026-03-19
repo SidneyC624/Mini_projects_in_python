@@ -1,0 +1,273 @@
+------------------------------
+Page 3------------------------------
+
+Article Number: 61
+Article Title: TigerFS – A Filesystem Backed by PostgreSQL
+Source Website: tigerfs.io
+Source URL: https://tigerfs.io
+Article Author: hahahacorn
+Article Score: 39 points
+Posted: 19 hours ago
+------------------------------
+
+Article Number: 62
+Article Title: The Two Worlds of Programming
+Source Website: baldurbjarnason.com
+Source URL: https://www.baldurbjarnason.com/2026/the-two-worlds-of-programming/
+Article Author: HotGarbage
+Article Score: 7 points
+Posted: 2 hours ago
+------------------------------
+
+Article Number: 63
+Article Title: SSH has no Host header
+Source Website: exe.dev
+Source URL: https://blog.exe.dev/ssh-host-header
+Article Author: apitman
+Article Score: 169 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 64
+Article Title: A BEAM-native personal autonomous AI agent built on Elixir/OTP
+Source Website: github.com/thatsme
+Source URL: https://github.com/thatsme/AlexClaw
+Article Author: ahamez
+Article Score: 29 points
+Posted: 17 hours ago
+------------------------------
+
+Article Number: 65
+Article Title: Why AI systems don't learn – On autonomous learning from cognitive science
+Source Website: arxiv.org
+Source URL: https://arxiv.org/abs/2603.15381
+Article Author: aanet
+Article Score: 189 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 66
+Article Title: Using calculus to do number theory
+Source Website: hidden-phenomena.com
+Source URL: https://hidden-phenomena.com/articles/hensels
+Article Author: cpp_frog
+Article Score: 129 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 67
+Article Title: The RAM stick is dying, and the replacement is something most have never seen
+Source Website: xda-developers.com
+Source URL: https://www.xda-developers.com/the-ram-stick-is-dying-and-the-replacement-is-something-most-pc-builders-have-never-seen/
+Article Author: speckx
+Article Score: 11 points
+Posted: 2 hours ago
+------------------------------
+
+Article Number: 68
+Article Title: A ngrok-style secure tunnel server written in Rust and Open Source
+Source Website: github.com/joaoh82
+Source URL: https://github.com/joaoh82/rustunnel
+Article Author: joaoh82
+Article Score: 100 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 69
+Article Title: Mistral AI Releases Forge
+Source Website: mistral.ai
+Source URL: https://mistral.ai/news/forge
+Article Author: pember
+Article Score: 716 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 70
+Article Title: FastAPI-compatible Python framework with Zig HTTP core; 7x faster
+Source Website: github.com/justrach
+Source URL: https://github.com/justrach/turboAPI
+Article Author: vaibhav3002
+Article Score: 19 points
+Posted: 17 hours ago
+------------------------------
+
+Article Number: 71
+Article Title: Death to Scroll Fade
+Source Website: dbushell.com
+Source URL: https://dbushell.com/2026/01/09/death-to-scroll-fade/
+Article Author: PaulHoule
+Article Score: 397 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 72
+Article Title: Show HN: Tmux-IDE, OSS agent-first terminal IDE
+Source Website: thijsverreck.com
+Source URL: https://tmux.thijsverreck.com
+Article Author: thijsverreck
+Article Score: 82 points
+Posted: 21 hours ago
+------------------------------
+
+Article Number: 73
+Article Title: Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'
+Source Website: tomshardware.com
+Source URL: https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level
+Article Author: crtasm
+Article Score: 789 points
+Posted: 2 days ago
+------------------------------
+
+Article Number: 74
+Article Title: An industrial piping contractor on Claude Code [video]
+Source Website: twitter.com/toddsaunders
+Source URL: https://twitter.com/toddsaunders/status/2034243420147859716
+Article Author: mighty-fine
+Article Score: 27 points
+Posted: 18 hours ago
+------------------------------
+
+Article Number: 75
+Article Title: The Serial Safety Net: Efficient Concurrency Control on Modern Hardware
+Source Website: muratbuffalo.blogspot.com
+Source URL: http://muratbuffalo.blogspot.com/2026/03/the-serial-safety-net-efficient.html
+Article Author: ingve
+Article Score: 13 points
+Posted: 7 hours ago
+------------------------------
+
+Article Number: 76
+Article Title: Jack Bogle would hate what Vanguard has become
+Source Website: ristforever.com
+Source URL: https://ristforever.com/rist/06693d7b-590a-4636-9198-a9e103369c70
+Article Author: benjaminklick
+Article Score: 22 points
+Posted: 15 hours ago
+------------------------------
+
+Article Number: 77
+Article Title: We Have Learned Nothing
+Source Website: colossus.com
+Source URL: https://colossus.com/article/we-have-learned-nothing-startup-pundits/
+Article Author: lukestevens
+Article Score: 71 points
+Posted: 12 hours ago
+------------------------------
+
+Article Number: 78
+Article Title: A tale about fixing eBPF spinlock issues in the Linux kernel
+Source Website: rovarma.com
+Source URL: https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/
+Article Author: y1n0
+Article Score: 161 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 79
+Article Title: A Decade of Slug
+Source Website: terathon.com
+Source URL: https://terathon.com/blog/decade-slug.html
+Article Author: mwkaufma
+Article Score: 737 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 80
+Article Title: Have a fucking website
+Source Website: otherstrangeness.com
+Source URL: https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/
+Article Author: asukachikaru
+Article Score: 893 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 81
+Article Title: On a Boat
+Source Website: moq.dev
+Source URL: https://moq.dev/blog/on-a-boat/
+Article Author: mmcclure
+Article Score: 150 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 82
+Article Title: Explore 19th Century Scientific Correspondence
+Source Website: epsilon.ac.uk
+Source URL: https://epsilon.ac.uk/
+Article Author: rramadass
+Article Score: 30 points
+Posted: 19 hours ago
+------------------------------
+
+Article Number: 83
+Article Title: Kagi is contemplating the removal of the assistant from its professional tier
+Source Website: kagifeedback.org
+Source URL: https://kagifeedback.org/d/10116-kagi-assistant-standalone-subscription
+Article Author: EbNar
+Article Score: 73 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 84
+Article Title: Kagi Small Web
+Source Website: kagi.com
+Source URL: https://kagi.com/smallweb/
+Article Author: trueduke
+Article Score: 778 points
+Posted: 2 days ago
+------------------------------
+
+Article Number: 85
+Article Title: Show HN: Pgit – A Git-like CLI backed by PostgreSQL
+Source Website: oseifert.ch
+Source URL: https://oseifert.ch/blog/building-pgit
+Article Author: ImGajeed76
+Article Score: 122 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 86
+Article Title: Write up of my homebrew CPU build
+Source Website: willwarren.com
+Source URL: https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/
+Article Author: wwarren
+Article Score: 237 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 87
+Article Title: Review: Samsung Galaxy S26 Ultra
+Source Website: wired.com
+Source URL: https://www.wired.com/review/samsung-galaxy-s26-ultra/
+Article Author: joozio
+Article Score: 53 points
+Posted: 20 hours ago
+------------------------------
+
+Article Number: 88
+Article Title: Python 3.15's JIT is now back on track
+Source Website: fidget-spinner.github.io
+Source URL: https://fidget-spinner.github.io/posts/jit-on-track.html
+Article Author: guidoiaquinti
+Article Score: 477 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 89
+Article Title: Honda is killing its EVs
+Source Website: techcrunch.com
+Source URL: https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/
+Article Author: sylvainkalache
+Article Score: 368 points
+Posted: 2 days ago
+------------------------------
+
+Article Number: 90
+Article Title: How the Eon Team Produced a Virtual Embodied Fly
+Source Website: eon.systems
+Source URL: https://eon.systems/updates/embodied-brain-emulation
+Article Author: LopRabbit
+Article Score: 75 points
+Posted: 1 day ago
+------------------------------
+

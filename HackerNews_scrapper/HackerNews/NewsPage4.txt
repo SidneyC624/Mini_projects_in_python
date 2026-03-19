@@ -1,0 +1,273 @@
+------------------------------
+Page 4------------------------------
+
+Article Number: 91
+Article Title: Snowflake AI Escapes Sandbox and Executes Malware
+Source Website: promptarmor.com
+Source URL: https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware
+Article Author: ozgune
+Article Score: 256 points
+Posted: 23 hours ago
+------------------------------
+
+Article Number: 92
+Article Title: Mamba-3
+Source Website: together.ai
+Source URL: https://www.together.ai/blog/mamba-3
+Article Author: WarmWash
+Article Score: 47 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 93
+Article Title: Ask HN: What breaks first when your team grows from 10 to 50 people?
+Source Website: N/A
+Source URL: item?id=47386284
+Article Author: hariprasadr
+Article Score: 99 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 94
+Article Title: FBI is buying location data to track US citizens, director confirms
+Source Website: techcrunch.com
+Source URL: https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/
+Article Author: jbegley
+Article Score: 481 points
+Posted: 19 hours ago
+------------------------------
+
+Article Number: 95
+Article Title: David Altrath Photography Diary
+Source Website: davidaltrath.com
+Source URL: https://davidaltrath.com/diary/
+Article Author: mooreds
+Article Score: 11 points
+Posted: 11 hours ago
+------------------------------
+
+Article Number: 96
+Article Title: Edge.js: Run Node apps inside a WebAssembly sandbox
+Source Website: wasmer.io
+Source URL: https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox
+Article Author: syrusakbary
+Article Score: 168 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 97
+Article Title: Ask HN: What do you look for in your first 10 hires?
+Source Website: N/A
+Source URL: item?id=47435782
+Article Author: neilk17
+Article Score: 17 points
+Posted: 8 hours ago
+------------------------------
+
+Article Number: 98
+Article Title: Get Shit Done: A meta-prompting, context engineering and spec-driven dev system
+Source Website: github.com/gsd-build
+Source URL: https://github.com/gsd-build/get-shit-done
+Article Author: stefankuehnel
+Article Score: 456 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 99
+Article Title: Launch HN: Kita (YC W26) – Automate credit review in emerging markets
+Source Website: N/A
+Source URL: item?id=47417335
+Article Author: rheamalhotra1
+Article Score: 54 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 100
+Article Title: What’s on HTTP?
+Source Website: whatsonhttp.com
+Source URL: https://whatsonhttp.com/
+Article Author: elixx
+Article Score: 73 points
+Posted: 17 hours ago
+------------------------------
+
+Article Number: 101
+Article Title: Meta will shut down VR Horizon Worlds access June 15
+Source Website: engadget.com
+Source URL: https://www.engadget.com/ar-vr/meta-will-shut-down-vr-horizon-worlds-access-in-june-222028919.html
+Article Author: bookofjoe
+Article Score: 164 points
+Posted: 23 hours ago
+------------------------------
+
+Article Number: 102
+Article Title: Kagi Translate now supports LinkedIn Speak as an output language
+Source Website: kagi.com
+Source URL: https://translate.kagi.com/?from=en&to=LinkedIn+speak
+Article Author: smitec
+Article Score: 1443 points
+Posted: 2 days ago
+------------------------------
+
+Article Number: 103
+Article Title: Restoring the first recording of computer music (2018)
+Source Website: bl.uk
+Source URL: https://www.bl.uk/stories/blogs/posts/restoring-the-first-recording-of-computer-music
+Article Author: OJFord
+Article Score: 39 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 104
+Article Title: Leanstral: Open-source agent for trustworthy coding and formal proof engineering
+Source Website: mistral.ai
+Source URL: https://mistral.ai/news/leanstral
+Article Author: Poudlardo
+Article Score: 777 points
+Posted: 2 days ago
+------------------------------
+
+Article Number: 105
+Article Title: The pleasures of poor product design
+Source Website: inconspicuous.info
+Source URL: https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design
+Article Author: NaOH
+Article Score: 258 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 106
+Article Title: Unsloth Studio
+Source Website: unsloth.ai
+Source URL: https://unsloth.ai/docs/new/studio
+Article Author: brainless
+Article Score: 384 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 107
+Article Title: Afroman prevails in defamation trial over songs about police raid on his home
+Source Website: washingtonpost.com
+Source URL: https://www.washingtonpost.com/national-security/2026/03/18/afroman-lawsuit-deputies-raid-ohio/
+Article Author: busymom0
+Article Score: 37 points
+Posted: 13 hours ago
+------------------------------
+
+Article Number: 108
+Article Title: Building a Shell
+Source Website: healeycodes.com
+Source URL: https://healeycodes.com/building-a-shell
+Article Author: ingve
+Article Score: 174 points
+Posted: 2 days ago
+------------------------------
+
+Article Number: 109
+Article Title: Show HN: Sub-millisecond VM sandboxes using CoW memory forking
+Source Website: github.com/adammiribyan
+Source URL: https://github.com/adammiribyan/zeroboot
+Article Author: adammiribyan
+Article Score: 303 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 110
+Article Title: Google Engineers Launch "Sashiko" for Agentic AI Code Review of the Linux Kernel
+Source Website: phoronix.com
+Source URL: https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review
+Article Author: speckx
+Article Score: 98 points
+Posted: 23 hours ago
+------------------------------
+
+Article Number: 111
+Article Title: No Semicolons Needed
+Source Website: terts.dev
+Source URL: https://terts.dev/blog/no-semicolons-needed/
+Article Author: aw1621107
+Article Score: 11 points
+Posted: 11 hours ago
+------------------------------
+
+Article Number: 112
+Article Title: Celebrating Tony Hoare's mark on computer science
+Source Website: bertrandmeyer.com
+Source URL: https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/
+Article Author: benhoyt
+Article Score: 133 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 113
+Article Title: Beyond has dropped “meat” from its name and expanded its high-protein drink line
+Source Website: plantbasednews.org
+Source URL: https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/
+Article Author: rmason
+Article Score: 216 points
+Posted: 2 days ago
+------------------------------
+
+Article Number: 114
+Article Title: Show HN: Claude Code skills that build complete Godot games
+Source Website: github.com/htdt
+Source URL: https://github.com/htdt/godogen
+Article Author: htdt
+Article Score: 330 points
+Posted: 2 days ago
+------------------------------
+
+Article Number: 115
+Article Title: EU Inc.: A new harmonised corporate legal regime
+Source Website: europa.eu
+Source URL: https://commission.europa.eu/topics/business-and-industry/doing-business-eu/company-law-and-corporate-governance/eu-inc-new-harmonised-corporate-legal-regime_en
+Article Author: guidoiaquinti
+Article Score: 137 points
+Posted: 21 hours ago
+------------------------------
+
+Article Number: 116
+Article Title: Spotify playing ads for paid subscribers
+Source Website: N/A
+Source URL: item?id=47428391
+Article Author: IncandescentGas
+Article Score: 121 points
+Posted: 22 hours ago
+------------------------------
+
+Article Number: 117
+Article Title: Observation of the doubly charmed heavy proton Ξcc+
+Source Website: cern.ch
+Source URL: https://lhcb-outreach.web.cern.ch/2026/03/17/observation-of-the-doubly-charmed-heavy-proton-%CE%BEcc/
+Article Author: nobody9999
+Article Score: 51 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 118
+Article Title: Forget Flags and Scripts: Just Rename the File
+Source Website: robertsdotpm.github.io
+Source URL: https://robertsdotpm.github.io/software_engineering/program_names_as_input.html
+Article Author: Uptrenda
+Article Score: 54 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 119
+Article Title: FFmpeg 8.1
+Source Website: ffmpeg.org
+Source URL: https://ffmpeg.org/index.html#pr8.1
+Article Author: gyan
+Article Score: 430 points
+Posted: 2 days ago
+------------------------------
+
+Article Number: 120
+Article Title: 'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)
+Source Website: theasc.com
+Source URL: https://theasc.com/articles/the-secret-agent-cinematography
+Article Author: tambourine_man
+Article Score: 156 points
+Posted: 1 day ago
+------------------------------
+

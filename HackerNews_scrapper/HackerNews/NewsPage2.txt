@@ -1,0 +1,273 @@
+------------------------------
+Page 2------------------------------
+
+Article Number: 31
+Article Title: Iran war energy shock sparks global push to reduce fossil fuel dependence
+Source Website: reuters.com
+Source URL: https://www.reuters.com/business/energy/iran-war-energy-shock-sparks-global-push-reduce-fossil-fuel-dependence-2026-03-18/
+Article Author: geox
+Article Score: 204 points
+Posted: 4 hours ago
+------------------------------
+
+Article Number: 32
+Article Title: Store birth date in systemd for age verification
+Source Website: github.com/systemd
+Source URL: https://github.com/systemd/systemd/pull/40954
+Article Author: sadeshmukh
+Article Score: 31 points
+Posted: 7 hours ago
+------------------------------
+
+Article Number: 33
+Article Title: Show HN: I built 48 lightweight SVG backgrounds you can copy/paste
+Source Website: svgbackgrounds.com
+Source URL: https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/
+Article Author: visiwig
+Article Score: 339 points
+Posted: 23 hours ago
+------------------------------
+
+Article Number: 34
+Article Title: Cook: A simple CLI for orchestrating Claude Code
+Source Website: rjcorwin.github.io
+Source URL: https://rjcorwin.github.io/cook/
+Article Author: staticvar
+Article Score: 260 points
+Posted: 13 hours ago
+------------------------------
+
+Article Number: 35
+Article Title: Mozilla to launch free built-in VPN in upcoming Firefox 149
+Source Website: cyberinsider.com
+Source URL: https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/
+Article Author: adrianwaj
+Article Score: 216 points
+Posted: 11 hours ago
+------------------------------
+
+Article Number: 36
+Article Title: Show HN: Will my flight have Starlink?
+Source Website: N/A
+Source URL: item?id=47428650
+Article Author: bblcla
+Article Score: 241 points
+Posted: 21 hours ago
+------------------------------
+
+Article Number: 37
+Article Title: Show HN: Browser grand strategy game for hundreds of players on huge maps
+Source Website: borderhold.io
+Source URL: https://borderhold.io/play
+Article Author: sgolem
+Article Score: 45 points
+Posted: 12 hours ago
+------------------------------
+
+Article Number: 38
+Article Title: Czech Man's Stone in Barn's Foundations Is Rare Bronze Age Spearhead Mold
+Source Website: smithsonianmag.com
+Source URL: https://www.smithsonianmag.com/smart-news/a-czech-man-used-this-stone-in-his-barns-foundations-it-turned-out-to-be-rare-bronze-age-spearhead-mold-180988339/
+Article Author: bookofjoe
+Article Score: 68 points
+Posted: 14 hours ago
+------------------------------
+
+Article Number: 39
+Article Title: OpenAI Has New Focus (on the IPO)
+Source Website: om.co
+Source URL: https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/
+Article Author: aamederen
+Article Score: 253 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 40
+Article Title: Rob Pike’s Rules of Programming (1989)
+Source Website: unc.edu
+Source URL: https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html
+Article Author: vismit2000
+Article Score: 949 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 41
+Article Title: Book: The Emerging Science of Machine Learning Benchmarks
+Source Website: mlbenchmarks.org
+Source URL: https://mlbenchmarks.org/00-preface.html
+Article Author: jxmorris12
+Article Score: 133 points
+Posted: 21 hours ago
+------------------------------
+
+Article Number: 42
+Article Title: Show HN: Pano, a bookmarking tool built around shareable shelves
+Source Website: panoit.com
+Source URL: https://www.panoit.com
+Article Author: uelbably
+Article Score: 32 points
+Posted: 9 hours ago
+------------------------------
+
+Article Number: 43
+Article Title: Canada slips in World Happiness rankings, due in part to social media use
+Source Website: cbc.ca
+Source URL: https://www.cbc.ca/news/world/world-happiness-2026-canada-25-9.7134296
+Article Author: Fricken
+Article Score: 16 points
+Posted: 3 hours ago
+------------------------------
+
+Article Number: 44
+Article Title: RX – a new random-access JSON alternative
+Source Website: github.com/creationix
+Source URL: https://github.com/creationix/rx
+Article Author: creationix
+Article Score: 125 points
+Posted: 15 hours ago
+------------------------------
+
+Article Number: 45
+Article Title: Machine Payments Protocol (MPP)
+Source Website: stripe.com
+Source URL: https://stripe.com/blog/machine-payments-protocol
+Article Author: bpierre
+Article Score: 185 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 46
+Article Title: Top AI models underperform in languages other than English
+Source Website: economist.com
+Source URL: https://www.economist.com/science-and-technology/2026/03/18/top-ai-models-underperform-in-languages-other-than-english
+Article Author: Brajeshwar
+Article Score: 13 points
+Posted: 2 hours ago
+------------------------------
+
+Article Number: 47
+Article Title: Measuring progress toward AGI: A cognitive framework
+Source Website: blog.google
+Source URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/
+Article Author: surprisetalk
+Article Score: 130 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 48
+Article Title: What 81,000 people want from AI
+Source Website: anthropic.com
+Source URL: https://www.anthropic.com/features/81k-interviews
+Article Author: dsr12
+Article Score: 171 points
+Posted: 10 hours ago
+------------------------------
+
+Article Number: 49
+Article Title: CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root
+Source Website: qualys.com
+Source URL: https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root
+Article Author: askl
+Article Score: 141 points
+Posted: 23 hours ago
+------------------------------
+
+Article Number: 50
+Article Title: Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m
+Source Website: huggingface.co
+Source URL: https://huggingface.co/datasets/open-index/hacker-news
+Article Author: tamnd
+Article Score: 394 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 51
+Article Title: Ndea (YC W26) is hiring a symbolic RL search guidance lead
+Source Website: ndea.com
+Source URL: https://ndea.com/jobs/search-guidance
+Article Author: N/A
+Article Score: 0
+Posted: 1 day ago
+------------------------------
+
+Article Number: 52
+Article Title: An x86-64 back end for raven-uxn
+Source Website: mattkeeter.com
+Source URL: https://www.mattkeeter.com/blog/2026-03-15-uxn/
+Article Author: dcre
+Article Score: 36 points
+Posted: 15 hours ago
+------------------------------
+
+Article Number: 53
+Article Title: Trevor Milton is raising funds for a new jet he claims will transform flying
+Source Website: wsj.com
+Source URL: https://www.wsj.com/business/trevor-milton-pardon-nikola-trump-3163e19c
+Article Author: jgalt212
+Article Score: 126 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 54
+Article Title: A comprehensive database of categories and their properties
+Source Website: catdat.app
+Source URL: https://catdat.app/
+Article Author: mathgenius
+Article Score: 32 points
+Posted: 15 hours ago
+------------------------------
+
+Article Number: 55
+Article Title: Show HN: Playing LongTurn FreeCiv with Friends
+Source Website: github.com/ndroo
+Source URL: https://github.com/ndroo/freeciv.andrewmcgrath.info
+Article Author: verelo
+Article Score: 81 points
+Posted: 20 hours ago
+------------------------------
+
+Article Number: 56
+Article Title: Why Cloudflare rule order matters?
+Source Website: brzozowski.io
+Source URL: https://www.brzozowski.io/web-applications/2025/03/11/why-cloudflare-rule-order-matters.html
+Article Author: redfr0g
+Article Score: 61 points
+Posted: 8 hours ago
+------------------------------
+
+Article Number: 57
+Article Title: 2025 Turing award given for quantum information science
+Source Website: acm.org
+Source URL: https://awards.acm.org/about/2025-turing
+Article Author: srvmshr
+Article Score: 123 points
+Posted: 22 hours ago
+------------------------------
+
+Article Number: 58
+Article Title: Despite doubts, federal cyber experts approved Microsoft cloud service
+Source Website: propublica.org
+Source URL: https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government
+Article Author: hn_acker
+Article Score: 470 points
+Posted: 1 day ago
+------------------------------
+
+Article Number: 59
+Article Title: Show HN: Budibase Agents Beta – model-agnostic AI agents for internal workflows
+Source Website: budibase.com
+Source URL: https://budibase.com/blog/updates/ai-agents-beta/
+Article Author: mjashanks
+Article Score: 5 points
+Posted: 1 hour ago
+------------------------------
+
+Article Number: 60
+Article Title: Nightingale – open-source karaoke app that works with any song on your computer
+Source Website: nightingale.cafe
+Source URL: https://nightingale.cafe/
+Article Author: rzzzzru
+Article Score: 557 points
+Posted: 1 day ago
+------------------------------
+
