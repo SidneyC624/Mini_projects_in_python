@@ -38,7 +38,40 @@ def index():
         return render_template("index.html", tasks=tasks)
     
 
+@app.route("/delete/<int:id>")
+def delete(id):
+    task = Todo.query.get_or_404(id)
+    try:
+        db.session.delete(task)
+        db.session.commit()
+        return redirect("/")
+    except:
+        return "There was an issue deleting your task"
 
+
+@app.route("/update/<int:id>", methods=["GET", "POST"])
+def update(id):
+    task = Todo.query.get_or_404(id)
+    if request.method == "POST":
+        task.content = request.form['content']
+        try:
+            db.session.commit()
+            return redirect("/")
+        except:
+            return "There was an issue updating your task"
+    else:
+        return render_template("update.html", task=task)
+    
+
+@app.route("/done/<int:id>")
+def done(id):
+    task = Todo.query.get_or_404(id)
+    task.completed = not task.completed
+    try:
+        db.session.commit()
+        return redirect("/")
+    except:
+        return "There was an issue marking your task as complete"
 
 if __name__ == "__main__":
     print(os.path.exists(os.path.join(app.instance_path, 'test.db')))
