@@ -1,0 +1,45 @@
+import os
+from flask import Flask, render_template, url_for, request, redirect
+from flask_sqlalchemy import SQLAlchemy
+from datetime import datetime
+
+app = Flask(__name__)
+
+if not os.path.exists(app.instance_path):
+    os.makedirs(app.instance_path)
+
+db_path = os.path.join(app.instance_path, 'test.db').replace("\\", "/")
+app.config['SQLALCHEMY_DATABASE_URI'] = f"sqlite:///{db_path}"
+db = SQLAlchemy(app)
+
+class Todo(db.Model):
+    id = db.Column(db.Integer, primary_key = True)
+    content = db.Column(db.String(200), nullable=False)
+    completed = db.Column(db.Boolean, default=False)
+    date_created = db.Column(db.DateTime, default=datetime.now)
+
+    def __repr__(self):
+        return f"<Task {self.id}>"
+
+@app.route("/", methods=["POST", "GET"])
+def index():
+    if request.method == "POST":
+        task_content = request.form["content"]
+        new_task = Todo(content=task_content)
+
+        try:
+            db.session.add(new_task)
+            db.session.commit()
+            return redirect("/")
+        except:
+            return "There was and issue adding your task"
+    else:
+        tasks = Todo.query.order_by(Todo.date_created).all()
+        return render_template("index.html", tasks=tasks)
+    
+
+
+
+if __name__ == "__main__":
+    print(os.path.exists(os.path.join(app.instance_path, 'test.db')))
+    app.run(debug=True)
